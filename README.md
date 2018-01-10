@@ -8,7 +8,7 @@ If you think that these can be improved in anyway, please do suggest.
 
 ***
 
-<p align="center"><b> Did you like this guide and want more of the similar content? </b><br>Subscribe for the launch of</a> or <a href="http://rupi.ga">follow me on twitter</a>!</p>
+<p align="center"><b> Did you like this guide and want more of the similar content? </b><br>Subscribe for the launch of</a> or <a href="http://rupi.ga">follow me on my Bolg</a>!</p>
 
 ***
 
@@ -51,13 +51,3 @@ The roadmaps are built using [Balsamiq](https://balsamiq.com/products/mockups/).
 - Open pull request with improvements
 - Discuss ideas in issues
 - Spread the word
-- Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
-
-## Sponsored By
-
-- [Hackr.io - Find & Share the Best Online Programming Courses & Tutorials](https://hackr.io)
-- [Highig - Think and its done](http://highig.com/)
-
-## License
-
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
