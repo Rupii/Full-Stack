@@ -33,3 +33,4 @@ For the backend, personally I would prefer Node.js and PHP 7 for the full time. 
 
 <br>
 
+resorce obtained from https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md
