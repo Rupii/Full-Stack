@@ -1,0 +1,14 @@
+
+  /* Remember classes always start with . and id with # */
+.first{
+  color: red;
+}
+
+.second{
+  color: #5f3;
+  text-decoration: line-through;
+}
+
+.third{
+  color: #02f;
+}

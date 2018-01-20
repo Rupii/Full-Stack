@@ -1,0 +1,38 @@
+/* tagname{
+  attribute: value;
+} */
+
+
+body{
+  background: grey;
+  /* you can also have a image on back ground which is given inside url() keyword */
+}
+h1{
+  color: #0ff;
+  font-style: oblique;
+  shape-inside: circle();
+}
+
+/* you can google search the # color to get more details on # color */
+li{
+  color: #f13;
+  font-style:italic;
+  font-size: 300;
+}
+
+
+/* #me is id  */
+/* #me changes the css style of the entire id having me */
+#me{
+  color: rgba(21, 22, 255, 0.5);
+}
+/* you can give the color of the tag with rgb and rgba too */
+
+/* a in rgba stands for the alpha value which is in range of 0, 1 which describe the opaque vizibility */
+
+div{
+  background: yellow;
+  border-color: blue;
+  border-width: 20px;
+  border-style: dotted;
+}
